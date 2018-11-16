@@ -1,1 +1,1 @@
-declare module '@coolstuffit/gettext-parser';
+declare module 'gettext-parser';
